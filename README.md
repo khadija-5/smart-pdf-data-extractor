@@ -1,5 +1,6 @@
 # 🧠 Smart PDF Data Extractor  
-*AI-powered document intelligence system built with LangChain, OpenAI, and ChromaDB.*
+*“Ask questions to your documents.”*
+
 
 ---
 
